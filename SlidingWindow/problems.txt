@@ -1,0 +1,11 @@
+1. maximum consucutive sum of elements in an array -> both O(n2) and O(n) DONE
+[1,2,3,-2,-4,6,7,8]
+
+2. find the longest substring of a string of a string containing disctinct characters.
+habilelabs -> habile,abile,bile,ile,le,elabs -> habile ans DONE
+
+3. return 3rd largest number from an array. DONE
+
+4. minimum consucutive sum of elements in an array.  DONE
+
+5. largest sub array of disctinct value in array.   
