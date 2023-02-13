@@ -1,4 +1,4 @@
-const notUnique = [1, 3, 4, 1, 5, 7, 1, 2, 2, 2];
+const notUnique = [1, 3,3,3, 4, 1, 5, 7, 1, 2, 2, 2];
 
 let getUniqueArr = arr => {
     let len = arr.length;
@@ -15,4 +15,3 @@ let getUniqueArr = arr => {
     return resArray;
 }
 console.log(getUniqueArr(notUnique));
-

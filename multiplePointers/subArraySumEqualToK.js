@@ -1,4 +1,4 @@
-1. // problem statement
+// problem statement
 // you have array of integers
 // [1,2,3,4,5,6,7]
 // you have a no N = 11;
@@ -8,7 +8,7 @@
 
 
 let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-k = 11;
+let k = 11;
 
 const len = arr.length - 1;
 
@@ -24,7 +24,6 @@ const sumOfTwoNumberInArray = (arr, k) => {
         }
         else if (arr[f_index] + arr[l_index] === k) {
             return 1;
-            // return (`${arr[f_index]}, ${arr[l_index]}`);
         }
     }
     return 0;
